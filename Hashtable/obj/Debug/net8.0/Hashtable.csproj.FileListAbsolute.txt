@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.exe
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.deps.json
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.runtimeconfig.json
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.dll
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.pdb
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.AssemblyInfo.cs
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.sourcelink.json
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.dll
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\refint\Hashtable.dll
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.pdb
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.genruntimeconfig.cache
+C:\Users\kevin\Documents\Visual Studio 2022\Projects\Hashtable\Hashtable\obj\Debug\net8.0\ref\Hashtable.dll
